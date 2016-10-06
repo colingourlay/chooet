@@ -1,0 +1,28 @@
+{
+  "name": "chooet",
+  "version": "1.0.0",
+  "description": "All the goodness of choo, multi-threaded by duet.",
+  "author": "Colin Gourlay <colin@colin-gourlay.com>",
+  "license": "ISC",
+  "keywords": [
+    "choo",
+    "duet"
+  ],
+  "dependencies": {
+    "barracks": "^8.3.1",
+    "duet": "^4.0.1",
+    "duet-location": "^1.0.1",
+    "duet-virtual-dom": "^1.1.0",
+    "hyperx": "^2.0.4",
+    "sheet-router": "^3.1.0",
+    "xhr": "^2.2.0",
+    "virtual-dom": "^2.1.1"
+  },
+  "main": "index.js",
+  "files": [
+    "choo.js",
+    "html.js",
+    "http.js",
+    "index.js"
+  ]
+}
