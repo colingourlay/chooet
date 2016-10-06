@@ -3,7 +3,15 @@
   "version": "1.0.0",
   "description": "All the goodness of choo, multi-threaded by duet.",
   "author": "Colin Gourlay <colin@colin-gourlay.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colingourlay/chooet.git"
+  },
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colingourlay/chooet/issues"
+  },
+  "homepage": "https://github.com/colingourlay/chooet#readme",
   "keywords": [
     "choo",
     "duet"
