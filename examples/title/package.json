@@ -1,0 +1,16 @@
+{
+  "name": "title",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "start": "budo client.js -p 8080"
+  },
+  "keywords": [],
+  "author": "Colin Gourlay <colin@colin-gourlay.com>",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^8.3.0",
+    "duet-document-title": "^1.0.2"
+  }
+}
