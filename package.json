@@ -19,7 +19,7 @@
   "dependencies": {
     "barracks": "^8.3.1",
     "duet": "^4.0.1",
-    "duet-location": "^1.0.1",
+    "duet-location": "^1.1.0",
     "duet-virtual-dom": "^1.1.0",
     "hyperx": "^2.0.4",
     "sheet-router": "^3.1.0",
